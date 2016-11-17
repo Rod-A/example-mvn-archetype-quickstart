@@ -13,7 +13,7 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
-import com.mycompany.mvn_archetype_quickstart_comp1.common.exception.CannotParse2IntegerException;
+import com.mycompany.example_mvn_archetype_quickstart.common.exception.CannotParse2IntegerException;
 
 public class AppTestJU4_1 {
 
